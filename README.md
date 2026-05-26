@@ -4,6 +4,8 @@
 
 35 years of macroeconomic data (1990–2026) pulled from the Federal Reserve (FRED). Tests the Phillips Curve and Okun's Law against real data — finding both theories directionally correct but significantly weaker than textbook models predict.
 
+**[Live Dashboard →](https://gdp-inflation-indicator-kybmd3pr4wuwcatumlveiq.streamlit.app/)**
+
 ---
 
 ## Results
